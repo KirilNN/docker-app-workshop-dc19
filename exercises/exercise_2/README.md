@@ -213,7 +213,7 @@ Once merged, the application can be split back into separate files using the `do
 2. Look in the `voting-app-split.dockerapp` directory and you'll see the files split apart.
 
     ```bash
-    $ ls voting-app-merged.dockerapp
+    $ ls voting-app-split.dockerapp
     docker-compose.yml  metadata.yml        parameters.yml
     ```
 
